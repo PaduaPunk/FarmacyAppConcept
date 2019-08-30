@@ -1,0 +1,59 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic PDF
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+ 
+<ion-content padding>
+ 
+  <ion-item>
+    <ion-label stacked>From</ion-label>
+    <ion-input [(ngModel)]="letterObj.from"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label stacked>To</ion-label>
+    <ion-input [(ngModel)]="letterObj.to"></ion-input>
+  </ion-item>
+  <ion-item>
+    <ion-label stacked>Text</ion-label>
+    <ion-textarea [(ngModel)]="letterObj.text" rows="10"></ion-textarea>
+  </ion-item>
+
+  <ion-item>
+  <ion-label>
+  	Razón social: {{razonSocial}}
+  </ion-label>
+   <ion-label>
+  	Nit: {{razonSocial}}
+  </ion-label>
+   <ion-label>
+  	Fecha: {{razonSocial}}
+  </ion-label>
+  </ion-item>
+ <ion-item>
+  <ion-label>
+  	Ciudad: {{razonSocial}}
+  </ion-label>
+   <ion-label>
+  	Depto: {{razonSocial}}
+  </ion-label>
+   <ion-label>
+  	Zona: {{razonSocial}}
+  </ion-label>
+  </ion-item>
+  <ion-item>
+  <ion-label>
+  	Dirección: {{razonSocial}}
+  </ion-label>
+   <ion-label>
+  	Telefono: {{razonSocial}}
+  </ion-label>
+   
+  </ion-item>
+  <button ion-button full (click)="createPdf()">Create PDF</button>
+  <button ion-button full (click)="downloadPdf()" color="secondary" [disabled]="!pdfObj">Download PDF</button>
+
+ 
+</ion-content>

@@ -1,0 +1,78 @@
+.datatable-header {
+      background: #36304a;
+      padding: 1em 0 0 1em;
+   }
+
+   .datatable-header-cell {
+   
+      font-size: .8em;
+      font-weight: bold;
+      color: #ffffff;
+      font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+   }
+
+   .datatable-body-row {
+      padding: 0;
+   }
+
+   .datatable-row-even {
+      background: rgba(240, 240, 240, 1);
+   }
+
+   .datatable-row-odd {
+      background: rgba(255, 255, 255,1);
+   }
+
+   .datatable-body-cell {
+      font-size: .8em;
+      padding: 1em;
+      color: #000000;
+      font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+   }
+
+
+   // Style footer appearance
+   .datatable-footer {
+   font-size: .8em;
+      background: #e37072;
+      padding: 0 1em 0 1em;
+      color: #ffffff;
+      font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+      .pager {
+         li {
+      	    padding: 0 1em !important;
+
+      	    a {
+      	       color: #ffffff;
+      	       text-decoration: none;
+      	    }
+      	 }
+      }
+   }
+
+
+   // Style rules for the footer pagination elements
+   .datatable-icon-done-all:before {
+      content: ">>";
+   }
+
+   .datatable-icon-left:before {
+      content: "<";
+   }
+
+   .datatable-icon-right:before {
+      content: ">";
+   }
+
+   .datatable-icon-skip:before {
+      content: ">>";
+   }
+
+   .datatable-icon-prev:before {
+      content: "<<";
+   }
+
+
+ ion-title {
+
+}

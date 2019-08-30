@@ -1,0 +1,100 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>
+      PEDIDO N# 01
+    </ion-title>
+    <ion-buttons end>
+<button ion-button>13/08/2018</button>  
+    </ion-buttons>
+  </ion-navbar>
+<ion-navbar>
+    
+    
+<ion-buttons style="text-align: center;">
+ <button class="btn" (click)="generarPedido($event)">Generar pedido</button>     
+ <button class="btn" (click)="client($event)" >{{razonSocial}}</button>
+</ion-buttons>
+</ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <div>
+     <ngx-datatable
+       [sortType]="'multi'"
+       [headerHeight]="50"
+       [footerHeight]="50"
+       [rowHeight]="'auto'"
+       [rows]="rows"
+       [columnMode]="'force'"
+       [limit]="200"
+       [selected]="selected"
+       [selectionType]="'checkbox'"
+       [selectAllRowsOnPage]="false"
+       [displayCheck]="displayCheck"
+       (activate)="onActivate($event)"
+       (select)='onSelect($event)'
+       >
+
+        
+
+       <ngx-datatable-column 
+       [width]="30"
+       [sortable]="false"
+       [canAutoResize]="false"
+       [draggable]="false"
+       [resizeable]="false">
+              <ng-template ngx-datatable-cell-template let-value="value" let-isSelected="isSelected" let-rowIndex="rowIndex" let-onCheckboxChangeFn="onCheckboxChangeFn" >
+              <input type="checkbox" [checked]="isSelected"
+                (change)="onCheckboxChangeFn($event)" 
+                (click) ="updateValue($event, rowIndex)"/>
+              </ng-template>         
+          </ngx-datatable-column>
+          <ngx-datatable-column name="Clave"> <ng-template ngx-datatable-cell-template let-rowIndex="rowIndex"  let-value="value" let-row="row">
+         <span (click)="updateValue($event, rowIndex)">{{value}}</span>
+         </ng-template></ngx-datatable-column>
+         <ngx-datatable-column name="Presentación" prop="presentacion"> <ng-template ngx-datatable-cell-template let-rowIndex="rowIndex"  let-value="value" let-row="row">
+         <span (click)="updateValue($event, rowIndex)">{{value}}</span>
+         </ng-template></ngx-datatable-column>
+
+         <ngx-datatable-column name="V.Unit" prop="preciobase"><ng-template ngx-datatable-cell-template let-rowIndex="rowIndex"  let-value="value" let-row="row">
+         <span (click)="updateValue($event, rowIndex)">{{value | currency}}</span>
+         </ng-template></ngx-datatable-column>
+         <ngx-datatable-column name="Pedido"> <ng-template ngx-datatable-cell-template let-rowIndex="rowIndex"  let-value="value" let-row="row">
+         <span (click)="updateValue($event, rowIndex)">{{value}}</span>
+         </ng-template></ngx-datatable-column>
+         <ngx-datatable-column name="V.Total" prop="V.Total"><ng-template ngx-datatable-cell-template let-rowIndex="rowIndex"  let-value="value" let-row="row">
+         <span (click)="updateValue($event, rowIndex)">{{value | currency}}</span>
+         </ng-template></ngx-datatable-column>
+
+     </ngx-datatable>
+  </div>
+
+<div>
+  
+</div>
+
+
+
+</ion-content>
+
+<ion-footer>
+  <ion-toolbar>
+    <ion-title >
+     
+      
+              <strong>Subtotal</strong>: {{subtotal | currency}}
+              
+            
+            
+              <strong>IVA</strong>: {{iva}}
+              
+              
+              <strong>Total</strong>: {{total | currency}}
+   
+    
+    </ion-title>
+  </ion-toolbar>
+</ion-footer>

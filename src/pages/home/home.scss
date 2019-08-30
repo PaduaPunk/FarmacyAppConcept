@@ -1,0 +1,21 @@
+page-home,
+.home {
+  ion-list {
+    border-radius: 1rem;
+    overflow: hidden;
+
+    ion-item,
+    .item:first-child,
+    .item:last-child {
+      border: none;
+    }
+
+    ion-datetime {
+      padding-left: 0;
+    }
+  }
+}
+
+.text{
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}

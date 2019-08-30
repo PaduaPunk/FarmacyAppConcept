@@ -1,0 +1,79 @@
+{
+   "technologies" : [
+      {
+         "name" : "Ionic Framework",
+         "summary" : "Hybrid application development framework",
+         "company" : "Drifty"
+      },
+      {
+         "name" : "Angular",
+         "summary" : "Front-end development framework",
+         "company" : "Google"
+      },
+      {
+         "name" : "TypeScript",
+         "summary" : "Superset of JavaScript",
+         "company" : "Microsoft"
+      },
+      {
+         "name" : "Apache Cordova",
+         "summary" : "Native application development framework",
+         "company" : "Apache"
+      },
+      {
+         "name" : "Ionic Native",
+         "summary" : "Apache Cordova compatible plugins",
+         "company" : "Drifty"
+      },
+      {
+         "name" : "HTML5",
+         "summary" : "Mark-up language and API's",
+         "company" : "W3C"
+      },
+      {
+         "name" : "Sass",
+         "summary" : "CSS pre-processor",
+         "company" : "W3C"
+      },
+      {
+         "name" : "Ionic CLI",
+         "summary" : "The engine behind the framework",
+         "company" : "Drifty"
+      },
+      {
+         "name" : "Stencil",
+         "summary" : "Web component generator",
+         "company" : "Drifty"
+      },
+      {
+         "name" : "Firebase",
+         "summary" : "Backend as a Service (BaaS)",
+         "company" : "Firebase/Google"
+      },
+      {
+         "name" : "MongoDB",
+         "summary" : "NoSQL database solution",
+         "company" : "Mongo"
+      },
+      {
+         "name" : "PHP",
+         "summary" : "Server-side scripting language",
+         "company" : "Zend"
+      },
+      {
+         "name" : "MySQL",
+         "summary" : "Popular open-source database",
+         "company" : "Oracle"
+      },
+      {
+         "name" : "PouchDB",
+         "summary" : "Client-side NoSQL database abstraction solution",
+         "company" : "PouchDB"
+      },
+      {
+         "name" : "CouchDB",
+         "summary" : "Server-side NoSQL database solution",
+         "company" : "CouchDB"
+      }
+   ]
+}

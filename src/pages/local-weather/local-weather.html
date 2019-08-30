@@ -1,0 +1,48 @@
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>Catalogo</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding class="common-bg">
+ <button ion-button>Cliente</button>
+
+<ion-searchbar
+  [(ngModel)]="myInput"
+  [showCancelButton]="shouldShowCancel"
+  (ionInput)="onInput($event)"
+  (ionCancel)="onCancel($event)">
+</ion-searchbar>
+
+<table>
+    <tr>
+      <th>Check</th>
+    <th>Clave</th>
+     <th>Precio</th>
+      <th>Cantidad</th>
+      <th>PrecioTotal</th>
+     
+    </tr>
+<tr *ngFor="let producto of catalogo; let i = index ">
+    <td>
+    <ion-checkbox color="alternative" [(ngModel)]="producto.checked" (ionChange)="updateCucumber($event,producto,i)"></ion-checkbox>
+    </td>
+    <td >{{producto.Clave}}</td>
+    <td >{{producto.Preciobase}}
+    </td>
+    <td>{{producto.Cantidad}}
+    </td>
+     <td >
+      {{producto.TotalUnitario}}
+    </td>
+</tr>    
+  
+  
+  
+
+    </table>
+
+</ion-content>

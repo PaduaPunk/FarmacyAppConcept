@@ -1,0 +1,979 @@
+{
+	"technologies": [{
+		"clave": "CVPT0001",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "AMPICILINA",
+		"presentacion": "FASCO X 2 GR",
+		"preciobase": 21077,
+		"preciounitariomayoristas": 21077,
+		"preciounitariodistribuidor": 22583
+	}, {
+		"clave": "CVPT0003",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXFEN",
+		"presentacion": "JERINGA DOSIFICADA X 10 ml",
+		"preciobase": 4865,
+		"preciounitariomayoristas": 4865,
+		"preciounitariodistribuidor": 5213
+	}, {
+		"clave": "CVPT0004",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXFEN",
+		"presentacion": "JERINGA DOSIFICADA X 20 ml",
+		"preciobase": 6895,
+		"preciounitariomayoristas": 6895,
+		"preciounitariodistribuidor": 7388
+	}, {
+		"clave": "CVPT0005",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXFEN",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 18788,
+		"preciounitariomayoristas": 18788,
+		"preciounitariodistribuidor": 20130
+	}, {
+		"clave": "CVPT0006",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXFEN",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 64386,
+		"preciounitariomayoristas": 64386,
+		"preciounitariodistribuidor": 68985
+	}, {
+		"clave": "CVPT0007",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXFEN",
+		"presentacion": "GARRAFA X 1000 ML",
+		"preciobase": 118881,
+		"preciounitariomayoristas": 118881,
+		"preciounitariodistribuidor": 127373
+	}, {
+		"clave": "CVPT0008",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXFEN",
+		"presentacion": "GARRAFA X 2000 ML",
+		"preciobase": 212394,
+		"preciounitariomayoristas": 212394,
+		"preciounitariodistribuidor": 227565
+	}, {
+		"clave": "CVPT0012",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXOL",
+		"presentacion": "JERINGA DOSIFICADA X 10 ml",
+		"preciobase": 4725,
+		"preciounitariomayoristas": 4725,
+		"preciounitariodistribuidor": 5063
+	}, {
+		"clave": "CVPT0013",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXOL",
+		"presentacion": "JERINGA DOSIFICADA X 20 ml",
+		"preciobase": 5754,
+		"preciounitariomayoristas": 5754,
+		"preciounitariodistribuidor": 6165
+	}, {
+		"clave": "CVPT0014",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXOL",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 17633,
+		"preciounitariomayoristas": 17633,
+		"preciounitariodistribuidor": 18893
+	}, {
+		"clave": "CVPT0015",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXOL",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 61754,
+		"preciounitariomayoristas": 61754,
+		"preciounitariodistribuidor": 66165
+	}, {
+		"clave": "CVPT0016",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXOL",
+		"presentacion": "GARRAFA X 1000 ML",
+		"preciobase": 106022,
+		"preciounitariomayoristas": 106022,
+		"preciounitariodistribuidor": 113595
+	}, {
+		"clave": "CVPT0017",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "CALOXOL",
+		"presentacion": "GARRAFA X 2000 ML",
+		"preciobase": 176099,
+		"preciounitariomayoristas": 176099,
+		"preciounitariodistribuidor": 188678
+	}, {
+		"clave": "CVPT0018",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 1%",
+		"presentacion": "FASCO X 10 ML",
+		"preciobase": 4760,
+		"preciounitariomayoristas": 4760,
+		"preciounitariodistribuidor": 5100
+	}, {
+		"clave": "CVPT0019",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 1%",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 9044,
+		"preciounitariomayoristas": 9044,
+		"preciounitariodistribuidor": 9690
+	}, {
+		"clave": "CVPT0020",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 1%",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 16870,
+		"preciounitariomayoristas": 16870,
+		"preciounitariodistribuidor": 18075
+	}, {
+		"clave": "CVPT0021",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 1%",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 48650,
+		"preciounitariomayoristas": 48650,
+		"preciounitariodistribuidor": 52125
+	}, {
+		"clave": "CVPT0022",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 3.5%",
+		"presentacion": "FASCO X 10 ML",
+		"preciobase": 6594,
+		"preciounitariomayoristas": 6594,
+		"preciounitariodistribuidor": 7065
+	}, {
+		"clave": "CVPT0024",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 3.5%",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 34489,
+		"preciounitariomayoristas": 34489,
+		"preciounitariodistribuidor": 36953
+	}, {
+		"clave": "CVPT0025",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 3.5%",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 134260,
+		"preciounitariomayoristas": 134260,
+		"preciounitariodistribuidor": 143850
+	}, {
+		"clave": "CVPT0026",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 3.5%",
+		"presentacion": "FASCO X 240 ML",
+		"preciobase": 8708,
+		"preciounitariomayoristas": 8708,
+		"preciounitariodistribuidor": 9330
+	}, {
+		"clave": "CVPT0026",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "ENROFIN 5%",
+		"presentacion": "FASCO X 10 ML",
+		"preciobase": 8708,
+		"preciounitariomayoristas": 8708,
+		"preciounitariodistribuidor": 9330
+	}, {
+		"clave": "CVPT0027",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "ENROFIN 5%",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 26712,
+		"preciounitariomayoristas": 26712,
+		"preciounitariodistribuidor": 28620
+	}, {
+		"clave": "CVPT0028",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 1%",
+		"presentacion": "FASCO X 240 ML",
+		"preciobase": 48090,
+		"preciounitariomayoristas": 48090,
+		"preciounitariodistribuidor": 51525
+	}, {
+		"clave": "CVPT0028",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "ENROFIN 5%",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 48090,
+		"preciounitariomayoristas": 48090,
+		"preciounitariodistribuidor": 51525
+	}, {
+		"clave": "CVPT0029",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "ENDOMECTIN 3.5%",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 4655,
+		"preciounitariomayoristas": 4655,
+		"preciounitariodistribuidor": 4988
+	}, {
+		"clave": "CVPT0029",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "ENROVIAR 10% ORAL",
+		"presentacion": "FASCO GOTERO X 10 ML",
+		"preciobase": 4655,
+		"preciounitariomayoristas": 4655,
+		"preciounitariodistribuidor": 4988
+	}, {
+		"clave": "CVPT0030",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "ENROVIAR 10% ORAL",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 11648,
+		"preciounitariomayoristas": 11648,
+		"preciounitariodistribuidor": 12480
+	}, {
+		"clave": "CVPT0031",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "ENROVIAR 10% ORAL",
+		"presentacion": "FASCO X 250 ML",
+		"preciobase": 20174,
+		"preciounitariomayoristas": 20174,
+		"preciounitariodistribuidor": 21615
+	}, {
+		"clave": "CVPT0032",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "ENROVIAR 10% ORAL",
+		"presentacion": "FASCO X 1000 ML",
+		"preciobase": 45038,
+		"preciounitariomayoristas": 45038,
+		"preciounitariodistribuidor": 48255
+	}, {
+		"clave": "CVPT0033",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "GOLD-D X 20ML",
+		"presentacion": "JERINGA  X 20 ml",
+		"preciobase": 9310,
+		"preciounitariomayoristas": 9310,
+		"preciounitariodistribuidor": 9975
+	}, {
+		"clave": "CVPT0035",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 5%",
+		"presentacion": "FASCO X 10 ML",
+		"preciobase": 4312,
+		"preciounitariomayoristas": 4312,
+		"preciounitariodistribuidor": 4620
+	}, {
+		"clave": "CVPT0036",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 5%",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 5075,
+		"preciounitariomayoristas": 5075,
+		"preciounitariodistribuidor": 5438
+	}, {
+		"clave": "CVPT0037",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 5%",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 8792,
+		"preciounitariomayoristas": 8792,
+		"preciounitariodistribuidor": 9420
+	}, {
+		"clave": "CVPT0038",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 5%",
+		"presentacion": "FASCO X 250 ML",
+		"preciobase": 13146,
+		"preciounitariomayoristas": 13146,
+		"preciounitariodistribuidor": 14085
+	}, {
+		"clave": "CVPT0039",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "YECTOZOL",
+		"presentacion": "FASCO X 10 ML",
+		"preciobase": 20104,
+		"preciounitariomayoristas": 20104,
+		"preciounitariodistribuidor": 21540
+	}, {
+		"clave": "CVPT0039",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 5%",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 20104,
+		"preciounitariomayoristas": 20104,
+		"preciounitariodistribuidor": 21540
+	}, {
+		"clave": "CVPT0040",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "YECTOZOL",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 5103,
+		"preciounitariomayoristas": 5103,
+		"preciounitariodistribuidor": 5468
+	}, {
+		"clave": "CVPT0041",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "YECTOZOL",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 12418,
+		"preciounitariomayoristas": 12418,
+		"preciounitariodistribuidor": 13305
+	}, {
+		"clave": "CVPT0042",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "YECTOZOL",
+		"presentacion": "FASCO X 250 ML",
+		"preciobase": 23093,
+		"preciounitariomayoristas": 23093,
+		"preciounitariodistribuidor": 24743
+	}, {
+		"clave": "CVPT0043",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "YECTOZOL",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 44261,
+		"preciounitariomayoristas": 44261,
+		"preciounitariodistribuidor": 47423
+	}, {
+		"clave": "CVPT0045",
+		"categoria": "MASCOTAS",
+		"producto": "PHAMOCAN",
+		"presentacion": "Jeringa x 2 mL",
+		"preciobase": 3017,
+		"preciounitariomayoristas": 3017,
+		"preciounitariodistribuidor": 3233
+	}, {
+		"clave": "CVPT0046",
+		"categoria": "MASCOTAS",
+		"producto": "PHAMOCAN",
+		"presentacion": "JerInga x 5 mL",
+		"preciobase": 4319,
+		"preciounitariomayoristas": 4319,
+		"preciounitariodistribuidor": 4628
+	}, {
+		"clave": "CVPT0051",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "VITAMINA A",
+		"presentacion": "FASCO X 20 ML",
+		"preciobase": 18067,
+		"preciounitariomayoristas": 18067,
+		"preciounitariodistribuidor": 19358
+	}, {
+		"clave": "CVPT0052",
+		"categoria": "MASCOTAS",
+		"producto": "IVERMECTINA 6 MG",
+		"presentacion": "Caja x 24 Tab.",
+		"preciobase": 33530,
+		"preciounitariomayoristas": 33530,
+		"preciounitariodistribuidor": 35925
+	}, {
+		"clave": "CVPT0052",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "VITAMINA A",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 33530,
+		"preciounitariomayoristas": 33530,
+		"preciounitariodistribuidor": 35925
+	}, {
+		"clave": "CVPT0053",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "HEMOLOX",
+		"presentacion": "FASCO X 240 ML",
+		"preciobase": 55853,
+		"preciounitariomayoristas": 55853,
+		"preciounitariodistribuidor": 59843
+	}, {
+		"clave": "CVPT0053",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "VITAMINA A",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 55853,
+		"preciounitariomayoristas": 55853,
+		"preciounitariodistribuidor": 59843
+	}, {
+		"clave": "CVPT0054",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "VITAMINA A",
+		"presentacion": "FASCO X 250 ML",
+		"preciobase": 112679,
+		"preciounitariomayoristas": 112679,
+		"preciounitariodistribuidor": 120728
+	}, {
+		"clave": "CVPT0055",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "VITACALOX GRANULADO",
+		"presentacion": "BOLSA X 60 G",
+		"preciobase": 18438,
+		"preciounitariomayoristas": 18438,
+		"preciounitariodistribuidor": 19755
+	}, {
+		"clave": "CVPT0058",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 200LA",
+		"presentacion": "FASCO X 10 ML",
+		"preciobase": 71820,
+		"preciounitariomayoristas": 71820,
+		"preciounitariodistribuidor": 76950
+	}, {
+		"clave": "CVPT0059",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "HEMOLOX",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 32501,
+		"preciounitariomayoristas": 32501,
+		"preciounitariodistribuidor": 34823
+	}, {
+		"clave": "CVPT0059",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 200LA",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 32501,
+		"preciounitariomayoristas": 32501,
+		"preciounitariodistribuidor": 34823
+	}, {
+		"clave": "CVPT0060",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "HEMOLOX",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 128884,
+		"preciounitariomayoristas": 128884,
+		"preciounitariodistribuidor": 138090
+	}, {
+		"clave": "CVPT0060",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 200LA",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 128884,
+		"preciounitariomayoristas": 128884,
+		"preciounitariodistribuidor": 138090
+	}, {
+		"clave": "CVPT0061",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "AMPICILINA",
+		"presentacion": "FASCO X 4 GR",
+		"preciobase": 35742,
+		"preciounitariomayoristas": 35742,
+		"preciounitariodistribuidor": 38295
+	}, {
+		"clave": "CVPT0061",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 200LA",
+		"presentacion": "FASCO X 250 ML",
+		"preciobase": 35742,
+		"preciounitariomayoristas": 35742,
+		"preciounitariodistribuidor": 38295
+	}, {
+		"clave": "CVPT0062",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "OXITETRACICLINA 200LA",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 27783,
+		"preciounitariomayoristas": 27783,
+		"preciounitariodistribuidor": 29768
+	}, {
+		"clave": "CVPT0063",
+		"categoria": "MASCOTAS",
+		"producto": "LORATADINA 10 MG",
+		"presentacion": "Caja x 10 Tab.",
+		"preciobase": 7154,
+		"preciounitariomayoristas": 7154,
+		"preciounitariodistribuidor": 7665
+	}, {
+		"clave": "CVPT0063",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "SULFADIAZINA  TRIMETROPINA",
+		"presentacion": "FASCO GOTERO X 10 ML",
+		"preciobase": 7154,
+		"preciounitariomayoristas": 7154,
+		"preciounitariodistribuidor": 7665
+	}, {
+		"clave": "CVPT0064",
+		"categoria": "MASCOTAS",
+		"producto": "PREDNISONA 5 MG",
+		"presentacion": "Caja x 10 Tab.",
+		"preciobase": 6580,
+		"preciounitariomayoristas": 6580,
+		"preciounitariodistribuidor": 7050
+	}, {
+		"clave": "CVPT0064",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "SULFADIAZINA  TRIMETROPINA",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 6580,
+		"preciounitariomayoristas": 6580,
+		"preciounitariodistribuidor": 7050
+	}, {
+		"clave": "CVPT0065",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "SULFADIAZINA  TRIMETROPINA",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0066",
+		"categoria": "MASCOTAS",
+		"producto": "ERLICLOX 100 MG",
+		"presentacion": "Caja x 10 Tab.",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0066",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "SULFADIAZINA  TRIMETROPINA",
+		"presentacion": "FASCO X 250 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0067",
+		"categoria": "MASCOTAS",
+		"producto": "ERLICLOX 100 MG",
+		"presentacion": "Caja x 100 Tab.",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0067",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "SULFADIAZINA  TRIMETROPINA",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0068",
+		"categoria": "MASCOTAS",
+		"producto": "CALOXDOL 2 MG",
+		"presentacion": "Caja x 10 Tab.",
+		"preciobase": 12796,
+		"preciounitariomayoristas": 12796,
+		"preciounitariodistribuidor": 13710
+	}, {
+		"clave": "CVPT0069",
+		"categoria": "MASCOTAS",
+		"producto": "CALOXDOL 2 MG",
+		"presentacion": "Caja x 100 Tab.",
+		"preciobase": 112140,
+		"preciounitariomayoristas": 112140,
+		"preciounitariodistribuidor": 120150
+	}, {
+		"clave": "CVPT0070",
+		"categoria": "MASCOTAS",
+		"producto": "CIPROVANCE 250",
+		"presentacion": "Caja x 10 Tab.",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0071",
+		"categoria": "MASCOTAS",
+		"producto": "CIPROVANCE 250",
+		"presentacion": "Caja x 100 Tab.",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0072",
+		"categoria": "MASCOTAS",
+		"producto": "PREDNISONA 50 MG",
+		"presentacion": "Caja x 10 Tab.",
+		"preciobase": 17290,
+		"preciounitariomayoristas": 17290,
+		"preciounitariodistribuidor": 18525
+	}, {
+		"clave": "CVPT0073",
+		"categoria": "MASCOTAS",
+		"producto": "PREDNISONA 50 MG",
+		"presentacion": "Caja x 100 Tab.",
+		"preciobase": 161000,
+		"preciounitariomayoristas": 161000,
+		"preciounitariodistribuidor": 172500
+	}, {
+		"clave": "CVPT0074",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "CONVER",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0075",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "CONVER",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0076",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "CONVER",
+		"presentacion": "FASCO X 250 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0077",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "CONVER",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0078",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "HEMOTROM",
+		"presentacion": "Frasco x 20 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0078",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "HEMATOBIOS B12",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0079",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "HEMOTROM",
+		"presentacion": "Frasco x 50 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0079",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "HEMATOBIOS B12",
+		"presentacion": "FASCO X 250 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0080",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "HEMATOBIOS B12",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0085",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "BPONQUIVET",
+		"presentacion": "FASCO X 120 ML",
+		"preciobase": 7630,
+		"preciounitariomayoristas": 7630,
+		"preciounitariodistribuidor": 8175
+	}, {
+		"clave": "CVPT0086",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "BPONQUIVET",
+		"presentacion": "FASCO X 240 ML",
+		"preciobase": 13846,
+		"preciounitariomayoristas": 13846,
+		"preciounitariodistribuidor": 14835
+	}, {
+		"clave": "CVPT0092",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "KETOCOL 10%",
+		"presentacion": "Frasco x 10 mL",
+		"preciobase": 7630,
+		"preciounitariomayoristas": 7630,
+		"preciounitariodistribuidor": 8175
+	}, {
+		"clave": "CVPT0093",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "KETOCOL 10%",
+		"presentacion": "Frasco x 50 mL",
+		"preciobase": 13846,
+		"preciounitariomayoristas": 13846,
+		"preciounitariodistribuidor": 14835
+	}, {
+		"clave": "CVPT0094",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "HEMOLOX",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 7630,
+		"preciounitariomayoristas": 7630,
+		"preciounitariodistribuidor": 8175
+	}, {
+		"clave": "CVPT0094",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "VITHIPEN",
+		"presentacion": "FASCO X 1, 500, 000 UL",
+		"preciobase": 7630,
+		"preciounitariomayoristas": 7630,
+		"preciounitariodistribuidor": 8175
+	}, {
+		"clave": "CVPT0095",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "VITHIPEN",
+		"presentacion": "FASCO X 3, 000, 000 UL",
+		"preciobase": 10780,
+		"preciounitariomayoristas": 10780,
+		"preciounitariodistribuidor": 11550
+	}, {
+		"clave": "CVPT0096",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "VITHIPEN",
+		"presentacion": "FASCO X 6, 000, 000 UL",
+		"preciobase": 17920,
+		"preciounitariomayoristas": 17920,
+		"preciounitariodistribuidor": 19200
+	}, {
+		"clave": "CVPT0097",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "VITHIPEN",
+		"presentacion": "FASCO X 9, 000, 000 UL",
+		"preciobase": 21140,
+		"preciounitariomayoristas": 21140,
+		"preciounitariodistribuidor": 22650
+	}, {
+		"clave": "CVPT0098",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "YODOSYN",
+		"presentacion": "Frasco x 120 mL",
+		"preciobase": 6860,
+		"preciounitariomayoristas": 6860,
+		"preciounitariodistribuidor": 7350
+	}, {
+		"clave": "CVPT0099",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "YODOSYN",
+		"presentacion": "Frasco x 500 mL",
+		"preciobase": 15890,
+		"preciounitariomayoristas": 15890,
+		"preciounitariodistribuidor": 17025
+	}, {
+		"clave": "CVPT0100",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "YODOSYN",
+		"presentacion": "Frasco x 1000 mL",
+		"preciobase": 31430,
+		"preciounitariomayoristas": 31430,
+		"preciounitariodistribuidor": 33675
+	}, {
+		"clave": "CVPT0101",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "MAMIDOL",
+		"presentacion": "Pomada 100 G",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0102",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "MAMIDOL",
+		"presentacion": "Pomada 300 G",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0104",
+		"categoria": "MASCOTAS",
+		"producto": "DENTI-VET",
+		"presentacion": "Tubo x 35 G",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0105",
+		"categoria": "MASCOTAS",
+		"producto": "DERMATOSYN",
+		"presentacion": "Crema x 40 G",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0106",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "KURAR",
+		"presentacion": "Frasco x 200 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0107",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "TEMISOL INYECTABLE",
+		"presentacion": "FASCO X 20 ML",
+		"preciobase": 7280,
+		"preciounitariomayoristas": 7280,
+		"preciounitariodistribuidor": 7800
+	}, {
+		"clave": "CVPT0108",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "TEMISOL INYECTABLE",
+		"presentacion": "FASCO X 50 ML",
+		"preciobase": 12068,
+		"preciounitariomayoristas": 12068,
+		"preciounitariodistribuidor": 12930
+	}, {
+		"clave": "CVPT0109",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "TEMISOL INYECTABLE",
+		"presentacion": "FASCO X 240 ML",
+		"preciobase": 23800,
+		"preciounitariomayoristas": 23800,
+		"preciounitariodistribuidor": 25500
+	}, {
+		"clave": "CVPT0110",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "TEMISOL INYECTABLE",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 31360,
+		"preciounitariomayoristas": 31360,
+		"preciounitariodistribuidor": 33600
+	}, {
+		"clave": "CVPT0111",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "TEMISOL ORAL",
+		"presentacion": "COJIN X 30 ML",
+		"preciobase": 959,
+		"preciounitariomayoristas": 959,
+		"preciounitariodistribuidor": 1028
+	}, {
+		"clave": "CVPT0112",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO INSECTICIDA",
+		"presentacion": "Frasco x 60 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0113",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO MEDICADO",
+		"presentacion": "Frasco x 60 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0114",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO MEDICADO",
+		"presentacion": "Frasco x 200 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0115",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO ALCE",
+		"presentacion": "Frasco x 60 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0116",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO ALCE",
+		"presentacion": "Frasco x 200 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0117",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO MANZANILLA",
+		"presentacion": "Frasco x 60 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0118",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO MANZANILLA",
+		"presentacion": "Frasco x 200 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0119",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "VITACALOX SUSPENSIÓN",
+		"presentacion": "SECHET X 30 ML",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0120",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "VITACALOX SUSPENSIÓN",
+		"presentacion": "FASCO X 120 ML",
+		"preciobase": 8820,
+		"preciounitariomayoristas": 8820,
+		"preciounitariodistribuidor": 9450
+	}, {
+		"clave": "CVPT0121",
+		"categoria": "VITAMINAS Y MINERALES",
+		"producto": "VITACALOX SUSPENSIÓN",
+		"presentacion": "FASCO X 500 ML",
+		"preciobase": 30310,
+		"preciounitariomayoristas": 30310,
+		"preciounitariodistribuidor": 32475
+	}, {
+		"clave": "CVPT0122",
+		"categoria": "ANTIPARASITARIOS",
+		"producto": "TEMISOL INYECTABLE",
+		"presentacion": "FASCO X 100 ML",
+		"preciobase": 9072,
+		"preciounitariomayoristas": 9072,
+		"preciounitariodistribuidor": 9720
+	}, {
+		"clave": "CVPT0123",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO INSECTICIDA",
+		"presentacion": "Frasco x 200 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0124",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO INSECTICIDA",
+		"presentacion": "Frasco x 750 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0125",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO MEDICADO",
+		"presentacion": "Frasco x 750 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0126",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO ALCE",
+		"presentacion": "Frasco x 750 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0127",
+		"categoria": "MASCOTAS",
+		"producto": "VETIDERMA SHAMPOO MANZANILLA",
+		"presentacion": "Frasco x 750 mL",
+		"preciobase": 0,
+		"preciounitariomayoristas": 0,
+		"preciounitariodistribuidor": 0
+	}, {
+		"clave": "CVPT0131",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "TESTO-DIONE",
+		"presentacion": "FASCO X 100 TABLETAS",
+		"preciobase": 42000,
+		"preciounitariomayoristas": 42000,
+		"preciounitariodistribuidor": 45000
+	}, {
+		"clave": "CVPT0139",
+		"categoria": "ANTIBIOTICOS",
+		"producto": "GALLOMIN",
+		"presentacion": "FASCO X 100 TABLETAS",
+		"preciobase": "",
+		"preciounitariomayoristas": "",
+		"preciounitariodistribuidor": ""
+	}]
+}

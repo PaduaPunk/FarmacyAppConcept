@@ -1,0 +1,401 @@
+{
+  "iva": 19,
+  "categorias": [
+    {
+      "idcategorias": 1,
+      "categoria": "antibioticos",
+      "productos": [
+        {
+          "idproducto": 1,
+          "idcategorias": 1,
+          "producto": "ampicilina",
+          "idpresentacion": "cvpt0001",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "ampicilina 2 gr",
+          "descripcion": "",
+          "precio": 21077
+        },
+        {
+          "idproducto": 2,
+          "idcategorias": 1,
+          "producto": "enrofin",
+          "idpresentacion": "cvpt0026",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "enrofin x 10 ml",
+          "descripcion": "",
+          "precio": 8708
+        },
+        {
+          "idproducto": 3,
+          "idcategorias": 1,
+          "producto": "enroviar",
+          "idpresentacion": "cvpt0029",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "enroviar x 10 ml",
+          "descripcion": "",
+          "precio": 4655
+        },
+        {
+          "idproducto": 4,
+          "idcategorias": 1,
+          "producto": "oxitetraciclina",
+          "idpresentacion": "cvpt0035",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "oxitetraciclina 5% x 10 ml",
+          "descripcion": "",
+          "precio": 4312
+        },
+        {
+          "idproducto": 5,
+          "idcategorias": 1,
+          "producto": "sulfadiazina",
+          "idpresentacion": "cvpt0047",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "sulfadiazina trimetop x 10 ml",
+          "descripcion": "",
+          "precio": 5488
+        },
+        {
+          "idproducto": 6,
+          "idcategorias": 1,
+          "producto": "vethipen",
+          "idpresentacion": "cvpt0094",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "vethipen fco x 1,500.000 ui",
+          "descripcion": "",
+          "precio": 7630
+        }
+      ]
+    },
+    {
+      "idcategorias": 2,
+      "categoria": "antiparacitarios",
+      "productos": [
+        {
+          "idproducto": 7,
+          "idcategorias": 2,
+          "producto": "caloxfen",
+          "idpresentacion": "cvpt0003",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "caloxfen x 10 ml",
+          "descripcion": "",
+          "precio": 4865
+        },
+        {
+          "idproducto": 8,
+          "idcategorias": 2,
+          "producto": "caloxol",
+          "idpresentacion": "cvpt0012",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "caloxol x 10 ml",
+          "descripcion": "",
+          "precio": 4725
+        },
+        {
+          "idproducto": 9,
+          "idcategorias": 2,
+          "producto": "endomectin",
+          "idpresentacion": "cvpt0018",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "endomectin 1% x 10 ml",
+          "descripcion": "",
+          "precio": 4760
+        },
+        {
+          "idproducto": 10,
+          "idcategorias": 2,
+          "producto": "gol - d x 20 ml",
+          "idpresentacion": "cvpt0033",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "gol-d x 20 ml",
+          "descripcion": "",
+          "precio": 9310
+        },
+        {
+          "idproducto": 11,
+          "idcategorias": 2,
+          "producto": "hemocalox",
+          "idpresentacion": "cvpt0034",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "hemocalox x 50 ml",
+          "descripcion": "",
+          "precio": 18585
+        },
+        {
+          "idproducto": 13,
+          "idcategorias": 2,
+          "producto": "yectozol",
+          "idpresentacion": "cvpt0080",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "yectozol frasco x 10 ml",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 12,
+          "idcategorias": 2,
+          "producto": "temisol",
+          "idpresentacion": "cvpt0107",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "temisol inyectablefco x 20 ml",
+          "descripcion": "",
+          "precio": 7280
+        }
+      ]
+    },
+    {
+      "idcategorias": 3,
+      "categoria": "gallos de pelea",
+      "productos": [
+        {
+          "idproducto": 14,
+          "idcategorias": 3,
+          "producto": "gallomin",
+          "idpresentacion": "cvpt0130",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "gallomin fco x 100 tab",
+          "descripcion": "",
+          "precio": 37380
+        },
+        {
+          "idproducto": 15,
+          "idcategorias": 3,
+          "producto": "testo",
+          "idpresentacion": "cvpt0131",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "testo-dione fco x 100 tab",
+          "descripcion": "",
+          "precio": 42000
+        }
+      ]
+    },
+    {
+      "idcategorias": 4,
+      "categoria": "mascotas",
+      "productos": [
+        {
+          "idproducto": 16,
+          "idcategorias": 4,
+          "producto": "phamocan",
+          "idpresentacion": "cvpt0045",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "phamocan x 2 ml",
+          "descripcion": "",
+          "precio": 3017
+        }
+      ]
+    },
+    {
+      "idcategorias": 5,
+      "categoria": "por definir",
+      "productos": [
+        {
+          "idproducto": 19,
+          "idcategorias": 5,
+          "producto": "canula",
+          "idpresentacion": "cvpt0065",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "canula mamaria plastica",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 17,
+          "idcategorias": 5,
+          "producto": "caloxdol",
+          "idpresentacion": "cvpt0068",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "caloxdol  2 mg caja x 10 tab",
+          "descripcion": "",
+          "precio": 12796
+        },
+        {
+          "idproducto": 20,
+          "idcategorias": 5,
+          "producto": "ciprovance",
+          "idpresentacion": "cvpt0070",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "ciprovance 250  mg caja x 10 tab",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 30,
+          "idcategorias": 5,
+          "producto": "vomin",
+          "idpresentacion": "cvpt0103",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "vomin gotero x 10 ml",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 22,
+          "idcategorias": 5,
+          "producto": "denty-vet",
+          "idpresentacion": "cvpt0104",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "denty-vet tubo x 35 g",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 23,
+          "idcategorias": 5,
+          "producto": "dermatosyn",
+          "idpresentacion": "cvpt0105",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "dermatosyn crema x 40 g",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 29,
+          "idcategorias": 5,
+          "producto": "shampoo",
+          "idpresentacion": "cvpt0113",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "shampoo vetiderma medicado fco x 60 ml",
+          "descripcion": "",
+          "precio": 0
+        }
+      ]
+    },
+    {
+      "idcategorias": 6,
+      "categoria": "vitaminas y minerales",
+      "productos": [
+        {
+          "idproducto": 32,
+          "idcategorias": 6,
+          "producto": "conver",
+          "idpresentacion": "cvpt0074",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "conver frasco x 50 ml",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 34,
+          "idcategorias": 6,
+          "producto": "hemotron",
+          "idpresentacion": "cvpt0078",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "hemotrom frasco x 20 ml",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 31,
+          "idcategorias": 6,
+          "producto": "bronquivet",
+          "idpresentacion": "cvpt0085",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "bronquivet frasco x 120 ml",
+          "descripcion": "",
+          "precio": 7630
+        },
+        {
+          "idproducto": 33,
+          "idcategorias": 6,
+          "producto": "hematobios",
+          "idpresentacion": "cvpt0091",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "hematobios b12 frasco x 500 ml",
+          "descripcion": "",
+          "precio": 0
+        },
+        {
+          "idproducto": 35,
+          "idcategorias": 6,
+          "producto": "ketocol",
+          "idpresentacion": "cvpt0092",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "ketocol  10% fco x 10 ml",
+          "descripcion": "",
+          "precio": 7630
+        },
+        {
+          "idproducto": 40,
+          "idcategorias": 6,
+          "producto": "yodosin",
+          "idpresentacion": "cvpt0100",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "yodosyn fco x 1000 ml",
+          "descripcion": "",
+          "precio": 31430
+        },
+        {
+          "idproducto": 36,
+          "idcategorias": 6,
+          "producto": "kurar",
+          "idpresentacion": "cvpt0106",
+          "idbono": 0,
+          "bonoc": 0,
+          "porsentaje": 0,
+          "presentacion": "kurar fco x 200 ml",
+          "descripcion": "",
+          "precio": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+<!-- -->
+<ion-content padding class="animated fadeIn login auth-page">
+  <div class="login-content">
+ <div class="row responsive-md">
+                <div class="col col-50 col-offset-25">
+    <!-- Logo -->
+    <div padding-horizontal text-center class="animated fadeInDown">
+      <div class="logo"></div>
+      <h2 ion-text class="" color="whiteble">
+        <strong>FARMACY</strong> Employee
+      </h2>
+    </div>
+
+    <!-- Login form -->
+    <form class="list-form">
+      <ion-item>
+        <ion-label floating color="whiteble">
+          <ion-icon name="contact" item-start class="text-icon-admin" ></ion-icon>
+          Usuario
+        </ion-label>
+        <ion-input type="email"></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label floating color="whiteble">
+          <ion-icon name="lock" item-start class="text-icon-admin" color="whiteble"></ion-icon>
+          Contraseña
+        </ion-label>
+        <ion-input type="password"></ion-input>
+      </ion-item>
+    </form>
+
+    <p text-right ion-text color="whiteble" tappable (click)="forgotPass()"><strong>¿Olvidaste tu contraseña?</strong></p>
+
+    <div>
+      <button ion-button round icon-start block tappable class="btn" (click)="login()">
+        <ion-icon name="log-in" color="alternative"></ion-icon>
+       <p text-right ion-text color="alternative" style="font-weight: bold;">ENTRAR</p>
+      </button>
+
+    </div>
+
+
+    <!-- Other links 
+    <div text-center margin-top>
+      <span ion-text color="secondary" tappable (click)="register()">New here? <strong>Sign up</strong></span>
+    </div>-->
+</div>
+</div>
+  </div>
+</ion-content>
